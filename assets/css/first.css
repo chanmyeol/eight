@@ -1,0 +1,24 @@
+*{margin:0;padding:0}
+
+.thi{text-align: center;}
+.text1{font-size: 2.667vw;color: rgba(57, 99, 238, 0.904);}
+.text2{font-size: 1.333vw;color: rgba(57, 135, 238, 0.918);font-weight: 10;margin-top: 0.667vw;}
+.download{width: 29.333vw;height: 5.333vw;background-color:rgba(67, 154, 236, 0.911) ; border-radius: 1.333vw;margin-top: 1.333vw;color: white;}
+.fou{background-color:rgba(243, 240, 240, 0.856);text-align: right; display:flex;justify-content:center;align-items:center;height: 20vw;}
+.fif{width:40vw;height: 18vw;background-color: white;border-radius: 1.333vw; width: 53.333vw; }
+span{float: left;}
+.span1{margin-top: 1.333vw;}
+.span2{font-size: 1.333vw;color:grey;margin-top: 1.333vw;}
+.six{background-color:rgba(243, 240, 240, 0.856);text-align: center;display:flex;justify-content:center;align-items:center;height: 30vw;}
+.sev{width:40vw;height: 25vw;background-color: white;border-radius: 1.333vw; width: 53.333vw; }
+.p1{margin-top: 1.333vw;}
+.p2{font-size: 1.333vw;color:grey;margin-top: 1.333vw;}
+.eig{background-color: rgba(243, 240, 240, 0.856);height: 40vw;display:flex;justify-content:center;align-items:center;}
+.nin{float: left;margin-right: 2.667vw;text-align: center;width: 30vw;background-color: white;height: 30vw;margin-left: 1.333vw;}
+.ten{float: left;text-align: center;width: 30vw;background-color: white;height: 30vw;}
+.p3{margin-top: 1.333vw;}
+.p4{font-size: 1.333vw;color:grey;margin-top: 1.333vw;}
+.ele{text-align: center;background-color: rgba(243, 240, 240, 0.856);}
+.twe{background-color: rgba(57, 99, 238, 0.904);}
+.p5{font-size: 0.667vw;margin-top: 1.333vw;color:white;}
+.p6{font-size: 0.667vw;margin-top: 0.4vw;margin-bottom: 0.667vw;color: white;}
